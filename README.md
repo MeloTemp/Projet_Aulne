@@ -313,7 +313,7 @@ On retrouve bien des alignements de PAMs sur certaines séquences de long-reads 
 
 ### 2. Alignement sur le génome avec Magicblast
 
-Pour rechercher la présence des peptides anti-microbien dans le jeu de donnée à disposition, Magicblast a été utilisé. Ce dernier est un outil d'alignement pouvant traiter une grande quantité de données avec précision, il a *(présente?)* l'avantage de prendre en compte l'épissage.
+Pour rechercher la présence des peptides anti-microbien dans le jeu de donnée à disposition, Magicblast a été utilisé. Ce dernier est un outil d'alignement pouvant traiter une grande quantité de données avec précision, il a l'avantage de prendre en compte l'épissage.
 
 **a. Installation**
 
@@ -351,5 +351,5 @@ Après observation de nos 11 PAMs retrouvés, on suppose que 7 d'entre eux subis
  *Table des PAMs alignés sur le génome :*
 ![](https://i.imgur.com/6XIeZ2J.png)
 
-Au vu des scores trouvés, on peut penser (estimer?) que l'on retrouve 11 des 12 PAMs connus dans le génome. Seul l'ag4 n'a pas donnée de résultat pertinant, soit il est localisé dans une région non assemblé du génome, soit les outils d'alignement n'ont pas permis de le retrouver. 
+Au vu des scores trouvés, on retrouve 11 des 12 PAMs connus dans le génome. Seul l'ag4 n'a pas donnée de résultat pertinent, soit il est localisé dans une région non assemblée du génome, soit les outils d'alignement n'ont pas permis de le retrouver.
 

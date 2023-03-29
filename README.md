@@ -343,8 +343,7 @@ magicblast -query <Pam.fa> -db <genome_db> -splice T -outfmt sam -out <fichier_s
 
 | Observation IGV des gènes codant ag9 et ag15|
 | -------- |
-|
-! ![](https://i.imgur.com/j4ZTO7F.png)|
+|! ![](https://i.imgur.com/j4ZTO7F.png)|
 
 Après observation de nos 11 PAMs retrouvés, on suppose que 7 d'entre eux subissent un épissage. On peut aussi observer des cas d'épissage alternatif comme avec ag9 et ag15. 
 
